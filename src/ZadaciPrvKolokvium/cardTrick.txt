@@ -1,0 +1,9 @@
+Prvo pravime queue so 51 karta.
+Potoa, se zemaat 7 karti i im se prevrtuva redosledot:
+1 2 3 4 5 6 7
+7 6 5 4 3 2 1
+Potoa zema edna od prevrtenite karti i edna od vrvot na shpilot, pa gi stava na krajot od shpilot.
+Toa go pravi se dodeka ne gi potroshi site sedum karti.
+Koga ke gi potroshi znaci deka napravil edno meshanje.
+
+Cel e da se izbroe kolku vakvi meshanja se potrebni za da stigne baranata karta do vrvot na shpilot.
